@@ -1,0 +1,19 @@
+{
+  "imgPaths": {
+    "screens": ["screen1.png", "screen2.png", "screen3.png"],
+    "cta": ["daftar", "pelajari", "submit"],
+    "etc": ["offdex", "optimax", "storex"]
+  },
+  "leadgenData": {
+    "apiUrl": "https://www.mobileads.com/api/save_lf?contactEmail=emailstosend&gotDatas=1&element=[{%22fieldname%22:%22text_1%22,%22value%22:%22nama%22},{%22fieldname%22:%22text_2%22,%22value%22:%22nomor_hp%22},{%22fieldname%22:%22text_3%22,%22value%22:%22email_input%22},{%22fieldname%22:%22text_4%22,%22value%22:%22tanggal%22}]&user-id=2901&studio-id=365&tab-id=1&trackid=2207&referredURL=IMX%20Digital%20Training%20%7C%20MW-IST%20%7C%20320x480%20V1&callback=leadGenCallback",
+    "emails": "jeff@mobileads.com,hendika@mobileads.com",
+    "inputs": {
+      "Nama": "String",
+      "Nomor_HP": "Number",
+      "Email": "Email",
+      "Tanggal": "Date"
+    }
+  },
+  "adVersion": 1,
+  "landingPageUrl": "https://imx.co.id/training"
+}
